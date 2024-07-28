@@ -3,7 +3,9 @@
 *{
     margin: 0px;
     padding: 0px;
+    /* background-color: #FF0000; */
 }
+
 
 
 
@@ -81,7 +83,7 @@
     margin: auto;
     margin-top: 10vh;
     background-image: url("../utility/images/New\ Year\ Photo.png");
-    filter: brightness(0.7);
+    /* filter: brightness(0.9); */
 }
 
 
@@ -90,17 +92,97 @@
 
 
 
+#third-article{
+    position: absolute;
+    top: 210vh;
+    /* top: 120vh; */
+    left: 20vw;
+    /* text-align: center; */
+    width: 30%;
+    z-index: 1;
+}
+#third-article h1{
+    font-size: 64px;
+    font-weight: 800;
+    font-family: "Merriweather", serif;
+    color: white;
+}
+#third-article p{
+    font-size: 14px;
+    font-weight: 100;
+    font-family: "Inter", sans-serif;
+    color: white;
+    margin-top: 60px;
+}
+#third-article button{
+    font-size: 20px;
+    font-weight: 500;
+    background: none;
+    border: none;
+    font-family: "Inter", sans-serif;
+    color: white;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+#third-section{
+    /* border: 1px solid; */
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    margin-top: 10vh;
+    background-image: url("../utility/images/Vectorrr.png");
+    filter: brightness(0.5);
+}
+#third-section-img{
+    position: absolute;
+    top: 205vh;
+    /* top: 120vh; */
+    left: 60vw;
+    /* text-align: center; */
+    z-index: 1;
+    height: 465px;
+}
 
 
 
 
 
+#fourth-section{
+    text-align: center;
+    line-height: 60px;
+    margin: auto;
+    margin-top: 10vh;
+    padding-top: 12vh;
+    width: 1320px;
+    height: 482px;
+    border-radius: 20px;
+    background-image: linear-gradient(#FF00001A, #FF000000);
+}
 
+.fourth-section-h4{
+    font-size: 32px;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+    color: #070211;
+}
+.fourth-section-red-span{
+    color: #FF0000;
+}
 
+#fourth-section button{
+    width: 167px;
+    height: 56px;
+    margin-top: 30px;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    background-color: #FF0000;
+    border: none;
+    border-radius: 8px;
 
-
-
-
+}
 
 
 
