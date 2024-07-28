@@ -9,12 +9,6 @@
 
 
 
-
-
-
-
-
-
 /* body section part */
 
 #top-section{
@@ -46,8 +40,6 @@
     font-weight: 900;
     color: #FFFFFF;
 }
-
-
 
 
 
@@ -85,8 +77,6 @@
     background-image: url("../utility/images/New\ Year\ Photo.png");
     /* filter: brightness(0.9); */
 }
-
-
 
 
 
@@ -190,17 +180,104 @@
 
 
 
+#fifth-section{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    /* border: 1px solid; */
+}
+#fifth-section-oneDiv{
+    width: 470px;
+    /* border: 1px solid; */
+    margin-top: 60px;
+    padding-right: 50px;
+}
+#fifth-section-oneDiv h6{
+    font-size: 24px;
+    font-weight: 400;
+    color: red;
+    font-family: "Inter", sans-serif;
+}
+#fifth-section-oneDiv h3{
+    font-size: 48px;
+    font-weight: 700;
+    color: #070211;
+    font-family: "Merriweather", serif;
+}
+#fifth-section-oneDiv p{
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    font-family: "Inter", sans-serif;
+}
+#fifth-section-twoDiv{
+    width: 463px;
+    height: 463px;
+    border: #FF0000 solid 15px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid; */
+}
+#fifth-section-threeDiv{
+    width: 276px;
+    height: 463px;
+    margin-left: 70px;
+    /* border: 1px solid; */
+}
+
+#fifth-section-threeDiv h4{
+    font-size: 48px;
+    font-weight: 600px;
+    font-family: "Inter", sans-serif;
+    color: #FF0000;
+    padding-top: 120px;
+}
+#fifth-section-threeDiv p{
+    font-size: 20px;
+    font-weight: 300px;
+    font-family: "Inter", sans-serif;
+    color: black;
+    padding-top: 20px;
+}
+#fifth-section-threeDiv img{
+    padding-top: 40px;
+}
 
 
 
 
 
 
-
-
-
-
-
+#sixth-section{
+    text-align: center;
+    margin-top: 20vh;
+}
+#sixth-section h6{
+    font-size: 24px;
+    font-weight: 500px;
+    font-family: "Inter", sans-serif;
+    color: black;
+}
+#sixth-section h1{
+    font-size: 72px;
+    font-weight: 700;
+    font-family: "Merriweather", serif;
+    color: black;
+    margin-top: 20px;
+}
+#sixth-section h1 span{
+    color: red;
+}
+#sixth-section p{
+    font-size: 17px;
+    font-weight: 300;
+    font-family: "Inter", sans-serif;
+    color: black;
+    margin-top: 40px;
+    /* border: 1px solid; */
+}
 
 
 
