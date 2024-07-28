@@ -1,0 +1,137 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+/* body section part */
+
+#top-section{
+    /* border: 1px solid; */
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    margin-top: 10vh;
+    background-image: url("../utility/images/Banner\ Image.png");
+    filter: brightness(0.7);
+}
+
+#top-article{
+    position: relative;
+    bottom: 48vh;
+}
+
+#top-article h6{
+    font-family: "Merriweather", serif;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+#top-article h2{
+    font-family: "Merriweather", serif;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+#secondary-article{
+    text-align: center;
+}
+#secondary-article h1{
+    font-size: 88px;
+    font-weight: 700;
+    font-family: "Inter", sans-serif;
+    color: #FF0000;
+}
+#secondary-article p{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: #FF0000;
+    margin-top: 5vh;
+}
+#secondary-article h5{
+    font-size: 48px;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+    color: #070211;
+    margin-top: 2vh;
+}
+#secondary-section{
+    /* border: 1px solid; */
+    width: 802px;
+    height: 500px;
+    margin: auto;
+    margin-top: 10vh;
+    background-image: url("../utility/images/New\ Year\ Photo.png");
+    filter: brightness(0.7);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
